@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Erick</h1>
+<h1 align="center">Erick Lerma ⚜️</h1>
 
-<h3 align="center">An incredible full stack web developer from México</h3>
+<h3 align="center">An incredible full stack web developer from México 🇲🇽</h3>
 
 ```Go
 package main
