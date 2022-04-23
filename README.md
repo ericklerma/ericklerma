@@ -3,6 +3,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ericklerma&label=Profile%20views&color=0e75b6&style=flat" alt="ericklerma" /> </p>
 
+```Go
+package main
+
+import "fmt"
+
+func main() {
+	fmt.Println("Hello, thanks for visit my profile. 👋 ")
+}
+```
+
 - 🌱 I’m currently learning **Hugo, Svelte, Next.js**
 
 <h3 align="left">Connect with me:</h3>
