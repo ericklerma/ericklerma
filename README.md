@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Erick</h1>
-<h3 align="center">An incredible full stack web developer from México</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ericklerma&label=Profile%20views&color=0e75b6&style=flat" alt="ericklerma" /> </p>
+<h3 align="center">An incredible full stack web developer from México</h3>
 
 ```Go
 package main
@@ -27,3 +26,5 @@ func main() {
 <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ericklerma&show_icons=true&locale=en&layout=compact" alt="ericklerma" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ericklerma&label=Profile%20views&color=0e75b6&style=flat" alt="ericklerma" /> </p>
